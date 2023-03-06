@@ -1,0 +1,14 @@
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\OtelYeni\OtelYeni.UI\bin\Debug\OtelYeni.UI.exe.config
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\OtelYeni\OtelYeni.UI\bin\Debug\OtelYeni.UI.exe
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\OtelYeni\OtelYeni.UI\bin\Debug\OtelYeni.UI.pdb
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\OtelYeni\OtelYeni.UI\obj\Debug\OtelYeni.UI.csproj.AssemblyReference.cache
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\OtelYeni\OtelYeni.UI\obj\Debug\OtelYeni.UI.Properties.Resources.resources
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\OtelYeni\OtelYeni.UI\obj\Debug\OtelYeni.UI.csproj.GenerateResource.cache
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\OtelYeni\OtelYeni.UI\obj\Debug\OtelYeni.UI.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\OtelYeni\OtelYeni.UI\obj\Debug\OtelYeni.UI.exe
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\OtelYeni\OtelYeni.UI\obj\Debug\OtelYeni.UI.pdb
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\OtelYeni\OtelYeni.UI\obj\Debug\OtelYeni.UI.FrmMain.resources
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\OtelYeni\OtelYeni.UI\obj\Debug\OtelYeni.UI.FrmFaturalandırma.resources
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\OtelYeni\OtelYeni.UI\obj\Debug\OtelYeni.UI.FrmRapor.resources
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\OtelYeni\OtelYeni.UI\obj\Debug\OtelYeni.UI.FrmTcRapor.resources
+C:\Users\batuh\Desktop\BilgeAdam\Melike Hoca - Yazılım\Ders Algoritmaları\OtelYeni\OtelYeni.UI\obj\Debug\OtelYeni.UI.FrmMusteriOlustur.resources
